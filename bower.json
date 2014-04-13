@@ -1,10 +1,11 @@
 {
-  "name": "Angular",
+  "name": "SeedProjectAngular",
   "version": "0.0.0",
-  "description": "Template for angular",
+  "description": "AngularJS client for the Seed Project",
   "main": "app/scripts/app.js",
   "keywords": [
-    "angularjs"
+    "angularjs",
+    "seedproject"
   ],
   "private": true,
   "ignore": [

@@ -1,4 +1,4 @@
-[![Travis status][Travis status]][Travis project]
+[![Travis status][Travis status]][Travis project]  **STILL IN DEVELOPMENT**
 
 # Seed Project AngularJS
 AngularJS client for [Seed Project], based on "[AngularJS Django Rest Framework Seed]" (by [zackargyle])
