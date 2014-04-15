@@ -19,8 +19,8 @@ module.exports = function(config) {
       'app/bower_components/angular-sanitize/angular-sanitize.js',
       'app/bower_components/angular-route/angular-route.js',
       'app/bower_components/angular-route/angular-route.js',
-      'app/scripts/*.js',
-      'app/scripts/**/*.js',
+      'app/js/*.js',
+      'app/js/**/*.js',
       'test/mock/**/*.js',
       'test/spec/**/*.js'
     ],
@@ -65,6 +65,7 @@ module.exports = function(config) {
       reporters:[
         {type: 'html', dir:'coverage/'},
         {type: 'cobertura', file:'coverage.xml'},
+        {type: 'lcov'},
 //        {type: 'text'},
         {type: 'text-summary'}
       ],

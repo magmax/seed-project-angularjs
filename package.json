@@ -9,11 +9,11 @@
   "scripts": {
     "test": "karma"
   },
-  "dependencies": {
-  },
   "devDependencies": {
-    "karma": "~0.10.9",
+    "karma": "~0.12.9",
+    "karma-coverage": "~0.2.1",
     "karma-chrome-launcher": "~0.1.2",
-    "bower": "~1.2.8"
+    "jasmine-expect": "~1.21.0",
+    "bower": "~1.3.2"
   }
 }
